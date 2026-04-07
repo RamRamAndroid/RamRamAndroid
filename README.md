@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ram Jammula
 - 👀 I’m interested in Computers
-- 🌱 I’m currently learning 6th class
-- 📫 How to reach me 1.my email = ramjamu432@gmail.com
+- 🌱 I’m currently learning 8th class
+- 📫 Reach me via email = ramjamu432@gmail.com
   
 <!---
 RamRamAndroid/RamRamAndroid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
